@@ -1,0 +1,5 @@
+# This repository has no framework, package manager or build step:
+# it contains only static files, which are published as-is.
+[build]
+  publish = "."
+  command = ""
